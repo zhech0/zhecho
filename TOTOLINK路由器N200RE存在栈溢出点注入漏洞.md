@@ -4,7 +4,7 @@
 
 在官网下载该N200RE V5_Firmware  V9.3.5u.6095_B20200916版本的固件
 
-https://www.totolink.net/home/menu/detail/menu_listtpl/download/id/204/ids/36.html
+https://www.totolink.net/data/upload/20200924/6bb0fad48ff63e85b773fab4b88a19e2.zip
 
 
 
